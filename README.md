@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>BetterZUXSidebar</h1>
-<img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="120" alt="BetterZUXSidebar">
+<img src="https://github.com/CommandPrompt-Wang/BetterZUXSidebar/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="120" alt="BetterZUXSidebar">
 
 <p></p>
 <p>简体中文</p>
